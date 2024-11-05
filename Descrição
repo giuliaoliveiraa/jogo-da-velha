@@ -5,3 +5,11 @@ Desenvolvedores: Giulia @giuliaosantos    Luka @lukamachado    Felipe @felipetag
 
 A principio uma das maiores dificuldades da equipe era arrumar os bugs encontrados da programação, alem de conectar a tela principal com o jogo em si foi um dos maiores desafios que a nossa equipe registrou, pois os botões da tela principal nao funcinavam por conta que as telas do jogo e do menu estrem uma em cima da outra, assim nao posibilitando exucutar o seu objetivo.
 Porem uma das partes mais legais foi ver o jogo exucantando corretamente, ja que começamos esse projeto no começo do ano.
+
+Tic Tac Toe é geralmente um jogo para dois jogadores onde um jogador usa "X" e o outro "O". No seu caso, em vez dos símbolos 
+habituais, temos dois gatos: um representado por “X” e outro por “O”. Agora imagine que o tabuleiro do jogo da velha permanece o mesmo
+e os 9 quadrados estão dispostos em uma grade 3x3, e cada jogador tenta colocar seu “gato” em um desses quadrados para formar uma 
+linha de três gatos. em linha. - o mesmo. ou verticalmente ou diagonalmente. O primeiro jogador a conseguir isso vence.
+Os bugs que você encontrará durante o jogo ocorrem porque a imagem do gato é redimensionada automaticamente, mas a lógica do jogo 
+ainda funciona bem, sem nenhum bug no jogo. O jogo continua a se mover entre os jogadores, encontrando vencedores e preenchendo 
+as células do tabuleiro, mesmo que a imagem possa parecer distorcida ou de tamanho inconsistente.
